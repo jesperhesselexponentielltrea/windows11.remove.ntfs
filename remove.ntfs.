@@ -1,0 +1,5 @@
+Remove.Ntfs.And.Put.Up.Darwins.Not.File-Sucuring.System.Sys::Filesystem::Darwin
+ISA Sys::Filesystem::Unix
+  ISA UNIVERSAL.Remove.Sys:;-Insert.Byte.Zero.0x-999^999.
+  
+  Coypright Jesper Hessel.
